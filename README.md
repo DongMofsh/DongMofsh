@@ -8,7 +8,7 @@
 - 🚀 I use daily:
   [![PHP](https://img.shields.io/badge/-PHP-7A1FA2?logo=php&logoColor=177be3)]()
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)]()
-  [![Vue3](https://img.shields.io/badge/Vue3-35495E?logo=vue3&logoColor=4FC08D)](https://www.fengleader.cn)
+  [![Vue3](https://img.shields.io/badge/vue.js-35495E?logo=vue3&logoColor=4FC08D)](https://www.fengleader.cn)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]()
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]()
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)]()
