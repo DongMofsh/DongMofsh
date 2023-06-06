@@ -18,7 +18,7 @@
   [![ChatGpt](https://img.shields.io/badge/ChatGpt-000000?logo=ChatGpt&logoColor=FFCA28)]()
 
 - 🫠 Temporary demo :
-  [![Demo]](https://www.fengleader.cn)
+  [Demo](https://www.fengleader.cn)
 
 #### Backend
 <table>
