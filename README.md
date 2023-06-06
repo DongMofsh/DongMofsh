@@ -42,7 +42,7 @@
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache.png" alt="Apache" height="50" />
+<img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/apache.png](https://www.apache.org/images/SupportApache-small.png)" alt="Apache" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
