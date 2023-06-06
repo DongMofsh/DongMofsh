@@ -16,7 +16,7 @@
 
 - 🔧 I use Tools:
   [![Stack Overflow](https://img.shields.io/badge/Stack-Overflow-7A1FA2?logo=Stack-Overflow&logoColor=177be3)]()
-  [![ChatGpt](https://img.shields.io/badge/ChatGpt-000000?logo=ChatGpt&logoColor=FFCA28)]()
+  [![ChatGpt](https://img.shields.io/badge/ChatGpt-c51212?logo=ChatGpt&logoColor=FFCA28)]()
 
 - 🫠 Temporary demo :
   [Demo](https://www.fengleader.cn)
