@@ -19,10 +19,10 @@
   [![ChatGpt](https://img.shields.io/badge/ChatGpt-000000?logo=ChatGpt&logoColor=FFCA28)]()
 
 
+#### Backend
 <table>
   <tr>
     <td valign="top" width="100%">
-#### Backend
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
