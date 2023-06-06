@@ -18,6 +18,10 @@
   [![Stack Overflow](https://img.shields.io/badge/Stack-Overflow-7A1FA2?logo=Stack-Overflow&logoColor=177be3)]()
   [![ChatGpt](https://img.shields.io/badge/ChatGpt-000000?logo=ChatGpt&logoColor=FFCA28)]()
 
+
+<table>
+  <tr>
+    <td valign="top" width="100%">
 #### Backend
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
@@ -30,5 +34,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
 </div>
 
-</td>
-<td valign="top" width="50%">
+  </td>
+</tr>
+</table>
