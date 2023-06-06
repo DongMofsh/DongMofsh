@@ -12,6 +12,7 @@
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]()
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]()
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)]()
+  [![Rabbitmq]](https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg)
 
 - 🔧 I use Tools:
   [![Stack Overflow](https://img.shields.io/badge/Stack-Overflow-7A1FA2?logo=Stack-Overflow&logoColor=177be3)]()
@@ -48,6 +49,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="Rabbitmq" height="50" />
+  
+  
 </div>
 
   </td>
