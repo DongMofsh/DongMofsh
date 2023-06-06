@@ -1,17 +1,4 @@
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 ###  Hi there 👋 🙂 I'm Domo.
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:13022124279@163.com)](mailto:13022124279@163.com)
 <!--
@@ -30,8 +17,6 @@ Here are some ideas to get you started:
 - 🔧 I use Tools:
   [![Stack Overflow](https://img.shields.io/badge/Stack-Overflow-7A1FA2?logo=Stack-Overflow&logoColor=177be3)]()
   [![ChatGpt](https://img.shields.io/badge/ChatGpt-000000?logo=ChatGpt&logoColor=FFCA28)]()
-
-
 
 #### Backend
 <div align="center">
