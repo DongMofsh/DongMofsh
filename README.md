@@ -20,7 +20,7 @@
 
 - 🫠 Temporary demo :
   [Demo](https://www.fengleader.cn)
-  [ChatGpt](https://www.fengleader.cn/chatgpt)
+  [ChatGpt](https://www.fengleader.cn/chatgpt)  特改的Get请求,可以连接访问 请勿攻击 🥹🥹🥹 
 <table>
   <tr>
     <td valign="top" width="100%">
