@@ -21,7 +21,7 @@
 - 🫠 Temporary demo :  
 - [Demo](https://www.fengleader.cn)  
 - [ChatGpt](https://www.fengleader.cn/chatgpt)  特改的Get请求,可以连接访问 请勿攻击 🥹🥹🥹   
-- [ChatGpt(PHP)](https://github.com/DongMofsh/DongMofsh/blob/main/index.php)
+- [ChatGpt(PHP版)](https://github.com/DongMofsh/DongMofsh/blob/main/index.php)
   
   
   
