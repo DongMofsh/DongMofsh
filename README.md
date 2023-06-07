@@ -20,6 +20,7 @@
 
 - 🫠 Temporary demo :
   [Demo](https://www.fengleader.cn)
+  [ChatGpt](https://www.fengleader.cn/chatgpt)
 <table>
   <tr>
     <td valign="top" width="100%">
