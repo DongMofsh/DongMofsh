@@ -44,7 +44,7 @@
       
       
 #### Backend
-<div align="center">
+<div align="left">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://www.apache.org/images/SupportApache-small.png" alt="Apache" height="50" />
