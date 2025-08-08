@@ -27,7 +27,7 @@
   
 <table>
   <tr>
-    <td valign="top" width="100%">
+    <td valign="top" width="100%" style="width:800px">
       
   
 #### Frontend    
